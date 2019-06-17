@@ -1,0 +1,161 @@
+body {
+  margin: 0px;
+}
+
+header {
+  font-family: "Macondo Swash Caps", cursive;
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(to left top, #5CACEE, #00688B, #79CDCD);
+  padding-bottom: 15px;
+  padding-top: 30px;
+  height: 180px;
+}
+
+header h2 {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 0px;
+}
+
+nav {
+  background-color: #FFFACD;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul{
+  margin-top:0px;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  font-size: 20px;
+  padding-left: 70px;
+  margin: 7px;
+  list-style: none;
+
+}
+
+p {
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#introducao {
+  margin-top: 30px;
+  margin-bottom: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1400px;
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Macondo Swash Caps", cursive;
+  font-size: 32px;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Macondo Swash Caps", cursive;
+  font-size: 24px;
+  margin: 0px;
+}
+
+.principal {
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+#filmes-disney {
+  background-image: linear-gradient(#00688B, white 15%, #00688B 140%);
+  padding: 30px;
+  padding-bottom: 70px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border: 1px solid black;
+}
+
+#filmes-disney h3 {
+  color: white;
+}
+
+#filmes-disney article {
+  clear: both;
+  margin: 70px;
+}
+
+#filmes-disney img {
+  margin-right: 10px;
+  margin-bottom: 70px;
+  margin-left: 10px;
+  border: 3px solid black;
+}
+
+.esquerda img{
+  float: left;
+}
+
+.direita img{
+  float: right;
+}
+
+.esquerda p {
+  margin-right: 100px;
+  padding-top: 10px;
+}
+
+.direita p {
+  margin-left: 100px;
+  padding-top: 40px;
+}
+
+#let-it-shine_img{
+  width: 130px;
+  height: 200px;
+}
+
+#camp-hsm_img, #stars-hannah_img, #lemonade-teen_img {
+  width: 300px;
+}
+
+#vs {
+  display: block;
+  margin-left: 720px;
+  width: 200px;
+}
+
+#filmes-nick {
+  margin: 100px;
+  border: 5px solid #FF8000;
+  padding: 30px;
+}
+
+#filmes-nick img {
+  height: 230px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
